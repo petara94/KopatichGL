@@ -1,0 +1,1 @@
+g++ main.cpp mouse.cpp display.cpp keyboard.cpp funcs.cpp variables.cpp -lopengl32 -lglu32 -lfreeglut
